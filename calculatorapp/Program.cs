@@ -7,13 +7,16 @@ class Program
         Console.WriteLine("Welcome to the Calculator App!");
         Console.Write("Please enter the first number: ");
         double num1= Convert.ToDouble(Console.ReadLine());
+        Console.WriteLine("------------------------------");
         
         Console.Write("Please choice +, -, *, or /: ");
         char op=Console.ReadKey().KeyChar;
-        Console.WriteLine();
+        Console.WriteLine("");
+        Console.WriteLine("------------------------------");
         
         Console.Write("Please enter the second number: ");
         double num2=Convert.ToDouble(Console.ReadLine());
+        Console.WriteLine("------------------------------");                    
 
         double result = 0;
         bool validOperation = true;
@@ -50,6 +53,7 @@ class Program
         }
 
         Console.WriteLine("Thank you for using the Calculator App!");
+        Console.WriteLine("-----------------------------");
         Console.WriteLine("Press any key to exit...");
         Console.ReadKey();
 

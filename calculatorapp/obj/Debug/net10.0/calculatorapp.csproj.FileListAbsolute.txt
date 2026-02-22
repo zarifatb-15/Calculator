@@ -1,0 +1,15 @@
+/Users/zarifababayeva/Desktop/calculatorapp/calculatorapp/bin/Debug/net10.0/calculatorapp
+/Users/zarifababayeva/Desktop/calculatorapp/calculatorapp/bin/Debug/net10.0/calculatorapp.deps.json
+/Users/zarifababayeva/Desktop/calculatorapp/calculatorapp/bin/Debug/net10.0/calculatorapp.runtimeconfig.json
+/Users/zarifababayeva/Desktop/calculatorapp/calculatorapp/bin/Debug/net10.0/calculatorapp.dll
+/Users/zarifababayeva/Desktop/calculatorapp/calculatorapp/bin/Debug/net10.0/calculatorapp.pdb
+/Users/zarifababayeva/Desktop/calculatorapp/calculatorapp/obj/Debug/net10.0/calculatorapp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zarifababayeva/Desktop/calculatorapp/calculatorapp/obj/Debug/net10.0/calculatorapp.AssemblyInfoInputs.cache
+/Users/zarifababayeva/Desktop/calculatorapp/calculatorapp/obj/Debug/net10.0/calculatorapp.AssemblyInfo.cs
+/Users/zarifababayeva/Desktop/calculatorapp/calculatorapp/obj/Debug/net10.0/calculatorapp.csproj.CoreCompileInputs.cache
+/Users/zarifababayeva/Desktop/calculatorapp/calculatorapp/obj/Debug/net10.0/calculatorapp.sourcelink.json
+/Users/zarifababayeva/Desktop/calculatorapp/calculatorapp/obj/Debug/net10.0/calculatorapp.dll
+/Users/zarifababayeva/Desktop/calculatorapp/calculatorapp/obj/Debug/net10.0/refint/calculatorapp.dll
+/Users/zarifababayeva/Desktop/calculatorapp/calculatorapp/obj/Debug/net10.0/calculatorapp.pdb
+/Users/zarifababayeva/Desktop/calculatorapp/calculatorapp/obj/Debug/net10.0/calculatorapp.genruntimeconfig.cache
+/Users/zarifababayeva/Desktop/calculatorapp/calculatorapp/obj/Debug/net10.0/ref/calculatorapp.dll
