@@ -18,6 +18,29 @@ class Program
         double result = 0;
         bool validOperation = true;
 
+        switch (op)
+        {
+            case '+':
+                result = num1 + num2;
+                break;
+            case '-':
+                result = num1 - num2;
+                break;
+            case '*':
+                result=num1*num2;
+                break;
+            case'/' :
+                if(num2!=0)
+                    result = num1 / num2;
+                else
+                {
+                    Console.WriteLine("Error: Division by zero is not allowed.");
+                    validOperation = false;
+                }
+                break;
+        }
+        
+
 
     }
 }
