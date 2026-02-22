@@ -38,9 +38,20 @@ class Program
                     validOperation = false;
                 }
                 break;
+            default:
+                Console.WriteLine("Error: Invalid operator.");
+                validOperation = false;
+                break;
         }
-        
 
+        if (validOperation)
+        {
+            Console.WriteLine($" Result: {num1} {op} {num2} = {result}");
+        }
+
+        Console.WriteLine("Thank you for using the Calculator App!");
+        Console.WriteLine("Press any key to exit...");
+        Console.ReadKey();
 
     }
 }
